@@ -20,19 +20,25 @@ body {
 }
 .menu {
     width: 15%;
-    background-color: aqua;
+    background-color:  #5FAE57;
     padding: 10px 20px 0px;
 }
 .header {
-    background-color: rgb(5, 108, 108);
+    background-color:  #a7dfa1;
     min-height: 150px;
 }
 .content {
-    background-color: white;
+    background-color: #f6fff3 ;
     min-height: 300px;
     padding: 20px;
 }
 .footer {
-    background-color: rgb(99, 56, 240);
+    background-color:#063500;
     min-height: 150px;
+    color: white;
+}
+
+li a {
+    color: rgb(1, 8, 1);
+    
 }
